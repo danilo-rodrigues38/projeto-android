@@ -81,7 +81,7 @@ header > p {
     font-size: 1.2em;
     font-family: var(--font-padrao);
     margin: auto;
-    margin-bottom: 20px;
+    padding-bottom: 35px;
     padding-right: 10px;
     padding-left: 10px;
     text-align: center;

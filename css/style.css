@@ -192,6 +192,14 @@ footer {
     padding: 10px;
 }
 
+footer p {
+    color: white;
+    margin: auto;
+    max-width: 500px;
+    text-align: center;
+    line-height: 1.5em;
+}
+
 footer a {
     color: var(--cor00);
     font-weight: bolder;
